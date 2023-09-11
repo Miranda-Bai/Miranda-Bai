@@ -1,8 +1,8 @@
 # Ying Bai
 ### I'm a ✨ full-stack developer & cybersecurity engineer✨ 
-- 🎓 I'm currently studying Master at Wintec
+- 🎓 I'm currently studying Master's at Wintec
 - 🌱 I'm currently learning the NIST cybersecurity framework
-- 💬 Sending me a message via my website: https://ying-bai-personal-portfolio.netlify.app/
+- 💬 Sending me a message via [my website](https://ying-bai-personal-portfolio.netlify.app/)
 
 
 

@@ -2,7 +2,7 @@
 ### I'm a ✨ full-stack developer & cybersecurity specialist✨ 
 - 🎓 PG
 - 🌱 
-- 💬 Sending me a message via [my website](https://ying-bai-personal-portfolio.netlify.app/)
+
 
 
 

@@ -1,7 +1,7 @@
 # Ying Bai
 ### I'm a ✨ full-stack developer & cybersecurity specialist✨ 
 - 🎓 PG
-- 🌱 
+- 🌱 [Blog](https://miranda-bai.github.io/ying-blog/)
 
 
 

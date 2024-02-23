@@ -1,7 +1,7 @@
 # Ying Bai
 ### I'm a ✨ cybersecurity specialist✨ 
 - 🎓 PG
-- - 🌱 [Ying's Portfolio Site](https://ying-bai-personal-portfolio.netlify.app/) 
+- 🌱 [Ying's Portfolio Site](https://ying-bai-personal-portfolio.netlify.app/) 
 - ✨ [Writeups & Notes](https://miranda-bai.github.io/)
 
 
